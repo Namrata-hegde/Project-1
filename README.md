@@ -39,11 +39,11 @@ namratachandra08@gmail.com)*
 
 ## 📸 Dashboard Preview
 ![dashboard_preview2 png](https://github.com/user-attachments/assets/6c343742-e59f-4f99-87df-e3f8a5c40b6d)
-![dashboard_preview2 png](https://github.com/user-attachments/assets/6c343742-e59f-4f99-87df-e3f8a5c40b6d)
+---
 ![dashboard_preview png](https://github.com/user-attachments/assets/f822cc06-c41b-4fec-aa40-66438a8199fc)
-![dashboard_preview png](https://github.com/user-attachments/assets/f822cc06-c41b-4fec-aa40-66438a8199fc)
+---
 ![dashboard_preview1 png](https://github.com/user-attachments/assets/71b9c43c-422e-4a96-a9d5-051924c10046)
-![dashboard_preview1 png](https://github.com/user-attachments/assets/71b9c43c-422e-4a96-a9d5-051924c10046)
+
 
 ```markdown
 
